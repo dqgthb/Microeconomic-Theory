@@ -1,3 +1,4 @@
-# My Awesome Book
+# This book is a guideline \(manual\) for studying Microeconomic Theory
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Navigate through chapters.
+
